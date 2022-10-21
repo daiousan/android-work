@@ -12,11 +12,10 @@
         android:textSize="20sp"
         android:textStyle="normal|bold"
         />
+
     <Button
         android:id="@+id/button1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/textView1"
-        android:text="@string/btn_txt"
-        />
+        android:text="@string/btn_txt" />
 </LinearLayout>
