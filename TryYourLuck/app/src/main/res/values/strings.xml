@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TryYourLuck</string>
+    <string name="title">かる～く運試し</string>
+    <string name="msg">あなたのラッキー度</string>
+    <string name="btn_txt">押してみて</string>
+    <string-array name="arr1">
+        <item>大大ラッキー</item>
+        <item>大ラッキー</item>
+        <item>普通にラッキー</item>
+        <item>ちょっとアンラッキー</item>
+        <item>アンラッキー</item>
+    </string-array>
+    <string-array name="arr2">
+        <item>真におめでとうございます。</item>
+        <item>よかったですね</item>
+        <item>まあまあ・・・ですね</item>
+        <item>めげずに頑張りましょう・・・</item>
+        <item>残念！！</item>
+    </string-array>
+</resources>
